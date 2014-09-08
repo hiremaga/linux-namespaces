@@ -1,6 +1,6 @@
 # linux-namespaces
 
-Exercises related to the excellent [Namespces in operation](http://lwn.net/Articles/531114/) series on [lwn.net](http://lwn.net/)
+Exercises related to the excellent [Namespces in operation series](http://lwn.net/Articles/531114/#series_index) on [lwn.net](http://lwn.net/)
 
 1. [namespaces overview](http://lwn.net/Articles/531114/)
 2. [the namespaces API](http://lwn.net/Articles/531381/)
